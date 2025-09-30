@@ -1,9 +1,9 @@
 body {
-    background: linear-gradient(135deg, #6a5acd, #483d8b); 
-    font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
-    color: #f0f8ff; /* Warna teks utama (Alice Blue, biar kontras di atas background gelap) */
+   body {
+  background: linear-gradient(135deg, #6a5acd, #483d8b);
+  font-family: Arial, sans-serif;
+  color: #f0f8ff;
 }
-
 .kartu-profil {
     width: 300px; 
     margin: 50px auto;      /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
