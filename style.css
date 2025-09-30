@@ -1,8 +1,8 @@
 body {
-   body {
-  background: linear-gradient(135deg, #6a5acd, #483d8b);
-  font-family: Arial, sans-serif;
-  color: #f0f8ff;
+body {
+    background-color: #FFFFE0; /* Warna kuning cerah */
+    font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
+    color: #191970; /* Warna teks utama (Biru Gelap) */
 }
 .kartu-profil {
     width: 300px; 
