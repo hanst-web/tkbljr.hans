@@ -3,3 +3,11 @@ body {
     font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
     color: #191970; /* Warna teks utama (Biru Gelap) */
 }
+.kartu-profil {
+    width: 300px; 
+    margin: 50px auto;      /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+    padding: 20px;          /* jarak isi (content) dengan pinggir kotak */
+    background-color: white; /* warna latar belakang kotak jadi putih */
+    border-radius: 15px;     /* sudut kotak dibikin melengkung 15px */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* bayangan lembut di bawah kotak */
+}
